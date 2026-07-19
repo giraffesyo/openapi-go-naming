@@ -7,6 +7,7 @@ Fast, deterministic conversion of OpenAPI identifiers into idiomatic,
 collision-safe Go names.
 
 **Zero dependencies.** Built entirely on Go's standard library.
+Requires Go 1.25 or newer.
 
     import naming "github.com/giraffesyo/openapi-go-naming"
 
