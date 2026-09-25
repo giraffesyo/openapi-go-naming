@@ -64,4 +64,6 @@ included benchmarks with:
 
 ## License
 
-MIT.
+Apache-2.0. See [LICENSE](LICENSE).
+
+Original MIT-licensed code and attribution are documented in [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md).
